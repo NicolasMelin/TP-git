@@ -1,4 +1,4 @@
-### application.bat - 2016 - Melin ###
+### application.bat - 2016 - DAMIEN SAUVAGERE ###
 version = "2"
 build_hour = "11H00"
 
